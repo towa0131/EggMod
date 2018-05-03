@@ -1,0 +1,16 @@
+[
+{
+  "modid": "EggMod",
+  "name": "Egg Mod",
+  "description": "たくさんの卵を追加します。",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["towa0131"],
+  "credits": "towa0131 Egg Mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,15 @@
+item.cookedegg.name=調理した卵
+item.eggs_super.name=スーパー卵
+item.egg_sword.name=卵の剣
+item.egg_pickaxe.name=卵のツルハシ
+item.egg_ingot.name=卵黄石のかけら
+tile.egg_ore.name=卵黄石
+itemGroup.EggTab=卵Mod
+achievement.starteggmod=卵Modへようこそ！
+achievement.starteggmod.desc=ニワトリから卵を入手する
+achievement.getcookedegg=秘められた食材
+achievement.getcookedegg.desc=卵をかまどで焼く
+achievement.make_egg_sword=卵は武器にもなる？
+achievement.make_egg_sword.desc=卵の剣を作る
+achievement.make_egg_pickaxe=卵はツルハシにもなる？
+achievement.make_egg_pickaxe.desc=卵のツルハシを作る
